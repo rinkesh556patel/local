@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  local
-//
-//  Created by Rinkesh Patel on 07/12/24.
-//
-
 import SwiftUI
 
 struct ContentView: View {
